@@ -1,5 +1,5 @@
 # WeeklyTest4
-HTML explanation:
+HTML explanation :
 <!DOCTYPE html>: Declares the document type and version of the HTML as HTML5.
 <html lang="en">: Defines the root element of an HTML document with the language attribute set to English.
 <meta charset="UTF-8" />: Specifies the character encoding for the document as UTF-8.
